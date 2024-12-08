@@ -29,7 +29,7 @@ This is the model card of a 🤗 transformers model that has been pushed on the 
 - **Language(s) (NLP):** Korean
 - **Finetuned from model [optional]:** google/gemma2-2b
 
-### Model Sources
+### References
 
 <!-- Provide the basic links for the model. -->
 
